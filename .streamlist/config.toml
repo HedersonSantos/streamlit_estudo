@@ -1,1 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jun 17 20:35:49 2024
 
+@author: Hederson
+"""
+
+[theme]
+primaryColor='colar código rgb da cor aqui'
+backgroundColor='colar código rgb da cor aqui'
+secondaryBackgroundColor='colar código rgb da cor aqui'
+textColor='colar código rgb da cor aqui'
+font='sans serif'
